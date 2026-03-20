@@ -1,10 +1,8 @@
-#Lab 01: Connecting Devices
-##Objective:
+# Lab 01: Connecting Devices
+## Objective:
 The objective of this lab is to connect multiple devices using the appropriate cable type based on devices types and distance between them.
 
-##Visual Evidence:
-
-##Notes:
+## Notes:
 Devices used: Laptops, switches, routers, and a server.
 
 Cable selection:
@@ -16,3 +14,6 @@ Distance guidelines:
 - Copper UTP: up to 100 meters
 - Multimode fiber: 100 to 500 meters
 - Single-mode fiber: distances of kilometers
+
+## Visual Evidence:
+![Lab Proof](Practice/Lab01_ConnectingDevices/Connecting Devices Lab.png)
