@@ -16,4 +16,4 @@ Distance guidelines:
 - Single-mode fiber: distances of kilometers
 
 ## Visual Evidence:
-![Lab Proof](Practice/Lab01_ConnectingDevices/Connecting Devices Lab.png)
+![Lab Topology](Practice/Lab01_ConnectingDevices/Connecting Devices Lab.png)
